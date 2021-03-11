@@ -1,5 +1,7 @@
 [core]
     analytics = false
     remote = remote_storage
+[cache]
+    dir = /home/kunal/workspace/shared_cache
 ['remote "remote_storage"']
     url = /home/kunal/workspace/dvc_remote
